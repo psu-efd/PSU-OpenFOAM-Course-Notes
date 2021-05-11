@@ -20,3 +20,8 @@ Credits:
 Copyright:
 -----------------------------------------------------------------
 0. All rights reserved.
+
+## Disclaimer ##
+This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software via <www.openfoam.com>, and owner of the OPENFOAM&reg;  and OpenCFD&reg; trade marks.
+
+OPENFOAM&reg; is a registered trade mark of OpenCFD Limited, producer and distributor of the OpenFOAM software via <www.openfoam.com>.
